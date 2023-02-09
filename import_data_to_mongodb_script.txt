@@ -1,0 +1,4 @@
+mongoimport --type csv -d "ASM1_data" -c "Questions" --headerline --drop <file>
+mongoimport --type csv -d "ASM1_data" -c "Answers" --headerline --drop <file>
+
+Depend on where you save asm you must enter the link of two source files "Answers.csv" and "Questions.csv" into <file> before load data to mongodb

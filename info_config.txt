@@ -1,0 +1,8 @@
+Spark: 3.1.1
+Scala: 2.12.15
+Python: 3.9
+PySpark: 3.1.1
+Java: jdk-11.0.16.1
+
+You can see more detail set up about dependencies in file: 
+my_setup.txt
